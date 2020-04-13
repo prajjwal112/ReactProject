@@ -93,7 +93,7 @@ A fast, friendly test runner. See docs
 
 Prettier
 
-An opinionated code formatter See docs
+An opinionated code formatter See docs https://github.com/sheerun/prettier-standard
 Formatting will be run automatically when committing. For best results configure editor integration:
 
 Vim
