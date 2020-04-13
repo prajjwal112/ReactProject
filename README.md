@@ -114,3 +114,18 @@ CI is configured to build every push and deploy it to S3. This responsibility is
 
 CI creates a static site for every push and creates a link to it in the merge request. These static sites are deleted automatically after a year but can always be recreated via the GitLab pipeline UI.
 Creating a tag and pushing it causes a production release to be created which can be promoted to a production environment via the GitLab pipeline UI. Tagged versions are kept forever and rollbacks can be accomplished by redeploying any previous version.
+
+
+Mockups
+Design view
+
+Screens: https://xd.adobe.com/view/20158210-b7b4-4cf3-46c7-37935a3bc152-5624/grid
+
+Style guide: https://xd.adobe.com/view/385a6b3f-dddb-4701-699d-2a7ad2cb767e-4e6b/grid
+
+
+Spec view
+
+Screens: https://xd.adobe.com/view/572508f9-06fc-44f9-52bd-d877649b16e7-2114/grid
+
+Style guide: https://xd.adobe.com/view/572508f9-06fc-44f9-52bd-d877649b16e7-2114/grid
